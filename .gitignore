@@ -1,0 +1,5 @@
+.qodo
+.gitignore
+/task/__pycache__
+/TaskManager/__pycache__
+.env
